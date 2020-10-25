@@ -1,17 +1,17 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+title: Henry Orton
+description: My Personal Website
+author: Dr Henry Orton
+logo: /static/img/avatar.jpg
+github: https://github.com/henryorton
+about: Research Chemist
 
 baseurl: ""
 url: ""
 
 allowsearch: true
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+# disqus_shortname: null
+# google_analytics: UA-72862926-1
 
 share:
   twitter_username: \#
